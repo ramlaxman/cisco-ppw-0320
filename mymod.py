@@ -1,3 +1,5 @@
+__all__ = ['x', 'y']
+
 _secret = 'shhh!'
 
 x = 100
