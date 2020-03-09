@@ -1,4 +1,5 @@
-__all__ = ['x', 'y']
+__all__ = ['NEVER_EVER_EVER_USE_FROM_IMPORT_STAR!']
+# __all__ = ['x', 'y']
 
 _secret = 'shhh!'
 
